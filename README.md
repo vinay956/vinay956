@@ -33,8 +33,8 @@ I'm always eager to learn new technologies and continuously improve my skills. W
 > Check out my repositories to explore more of my projects!
 
 ## 📫 How to Reach Me
-- **Email:** vinay@example.com
-- **LinkedIn:** [vinaykumarbasava]([https://www.linkedin.com/in/vinay-kumar-basava/](https://www.linkedin.com/in/vinaykumarbasava/))
+- **Email:** instyle2k17@gmail.com
+- **LinkedIn:** [vinaykumarbasava]([https://www.linkedin.com/in/vinaykumarbasava](https://www.linkedin.com/in/vinaykumarbasava/))
 - **Twitter:** [@vinay_basava](https://twitter.com/vinay_basava)
 
 ## ⚡ Fun Fact

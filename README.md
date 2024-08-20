@@ -34,7 +34,7 @@ I'm always eager to learn new technologies and continuously improve my skills. W
 
 ## 📫 How to Reach Me
 - **Email:** instyle2k17@gmail.com
-- **LinkedIn:** [vinaykumarbasava]([https://www.linkedin.com/in/vinaykumarbasava](https://www.linkedin.com/in/vinaykumarbasava/))
+- **LinkedIn:** [vinaykumarbasava](https://www.linkedin.com/in/vinaykumarbasava/)
 - **Twitter:** [@vinay_basava](https://twitter.com/vinay_basava)
 
 ## ⚡ Fun Fact
